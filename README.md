@@ -8,7 +8,7 @@ alt="Computador">
   <h2>‍<span><img src="https://imgur.com/YBRZguG.gif" width="23px" height="23px"></span> Sobre mim</h2>
 
   <p align="left">
-Olá Pessoal, meu nome é Hellerson Murilo e tenho 19 anos! Eu sou um desenvolvedor Front-end e Back-end.
+Olá Pessoal, meu nome é Hellerson Murilo e tenho 20 anos! Eu sou um desenvolvedor Front-end e Back-end.
 
 <p text-align="left">
   <strong>&#9749; Habilidades</strong>
